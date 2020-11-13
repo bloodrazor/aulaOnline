@@ -19,4 +19,3 @@ objeto.processamento() // foco passou a ser objeto
 // 1. abstração
 // 2. encapsulamento
 // 3. herança(prototype)
-// 4. 
